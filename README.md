@@ -10,7 +10,7 @@ No terminal, navegue até a pasta onde você salvou o arquivo de script.
 
 Dê permissão de execução ao arquivo usando o comando:
 
-`chmod +x temperatura_imperatriz.sh`
+`chmod +x temperatura_cidade.sh`
 
 Execute o script usando o comando:
-`./temperatura_imperatriz.sh`
+`./temperatura_cidade.sh`
