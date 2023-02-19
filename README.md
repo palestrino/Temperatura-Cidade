@@ -1,6 +1,6 @@
-# Temperatura-Imperatriz
+# Temperatura-SuaCidade
 
-Clone o repositório com `git clone https://github.com/palestrino/Temperatura-Imperatriz`.
+Clone o repositório com `git clone https://github.com/palestrino/Temperatura-Cidades`.
 
 Substituir `insira sua chave api` pela sua chave de API real do OpenWeatherMap.
 
