@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Insira sua chave de API do OpenWeatherMap aqui
-api_key="f45e9c6e38c2a8b91057eeb888cef4e3"
+api_key="insira sua chave api"
 
 # Insira o nome da cidade que você deseja verificar a temperatura e pluviosidade
 cidade="Imperatriz"
