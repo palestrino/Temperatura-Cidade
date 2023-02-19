@@ -4,7 +4,7 @@
 api_key="insira sua chave api"
 
 # Insira o nome da cidade que você deseja verificar a temperatura e pluviosidade
-cidade="Imperatriz"
+cidade="Nome da cidade"
 
 # Faz uma solicitação HTTP para a API do OpenWeatherMap e salva a resposta em um arquivo temporário
 curl -s "http://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=${api_key}&lang=pt_br&units=metric" -o /tmp/weather.json
